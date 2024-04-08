@@ -3,11 +3,8 @@
 Booking-Hotle is a full stack MERN (MongoDB, Express, ReactJS, and Node.js) template designed to simplify the hotel booking process. It provides a comprehensive set of features and a user-friendly interface for managing hotels, bookings, and user accounts.
 
 ### Tools Used
-MongoDB: A popular NoSQL database used for storing hotel and user data.
-ReactJS: A JavaScript library for building user interfaces, providing a responsive and interactive client-side application.
-Express: A fast and minimalist web application framework for Node.js, used for handling server-side logic and API endpoints.
-Node.js: A JavaScript runtime environment that allows server-side execution of JavaScript code.
-Tailwind CSS: A utility-first CSS framework used for styling the website, providing a modern and customizable look and feel.
+MongoDB: A popular NoSQL database used for storing hotel and user data,
+ReactJS, Express, Node.js, and Tailwind CSS
 
 ### Key Features
 Booking-Hotle offers a range of features to enhance the hotel booking experience:
