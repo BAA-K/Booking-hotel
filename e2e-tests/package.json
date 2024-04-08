@@ -1,0 +1,15 @@
+{
+  "name": "e2e-tests",
+  "version": "1.0.0",
+  "description": "1) npm init playwright@latest",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.27",
+    "typescript": "^5.4.2"
+  }
+}
