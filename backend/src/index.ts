@@ -25,7 +25,7 @@ mongoose
             process.env.MONGODB_CONNECTION_STRING
         )
     )
-    .catch((err) => console.log("Connection Field", err));
+    .catch((err) => console.log("Connection Failed", err));
 
 const app = express();
 
